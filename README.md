@@ -1,6 +1,6 @@
 # Yahtzee
 
-### Logistics
+### Setup
 Before running in a command shell, change the active console code page for the ASCII art to properly function.
 
 Do this by entering ```chcp 65001``` in the console.  
